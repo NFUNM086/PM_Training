@@ -34,6 +34,22 @@ PRD 产品需求文档（对开发、测试、体验人员，主要和产品需�
 ### 笔记
 
 - **产品经理的核心能力：“感”体验、“通”需求、“出”设计**
+- **“感”体验**
+
+![“感”体验.png](https://upload-images.jianshu.io/upload_images/9400767-d79d7de5d0e3f78c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![“感”体验.png](https://upload-images.jianshu.io/upload_images/9400767-bf6ebab5a734889c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- **“通”需求**
+
+![“通”需求.png](https://upload-images.jianshu.io/upload_images/9400767-40bde20935ffcb09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![“通”需求.png](https://upload-images.jianshu.io/upload_images/9400767-a1a6f27c14556d36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- **“出”设计**
+![“出”设计.png](https://upload-images.jianshu.io/upload_images/9400767-a6f3c8267ecf6048.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![“出”设计.png](https://upload-images.jianshu.io/upload_images/9400767-1fd80c92ddbbe836.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - **以用户为中心的设计过程**
 1. 使用情境研究（research contexts of use）
