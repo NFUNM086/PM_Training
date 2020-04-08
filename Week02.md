@@ -1,8 +1,12 @@
 ## 关键词
 usability 可用性
+
 HCI（Human-computer Interaction） 人机交互
+
 effectiveness 有效性
+
 efficiency 效率
+
 satisfaction满意度
 
 ## 笔记
