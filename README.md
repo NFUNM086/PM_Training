@@ -4,3 +4,5 @@
 **[第一周学习笔记](https://github.com/NFUNM086/PM_Training/blob/master/Week01.md)**
 
 **[第二周学习笔记](https://github.com/NFUNM086/PM_Training/blob/master/Week02.md)**
+
+**[第三周学习笔记](https://github.com/NFUNM086/PM_Training/blob/master/Week03.md)**
